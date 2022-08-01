@@ -1,6 +1,6 @@
 # 7.3 // Generalização, Especialização e Polimorfismo // Matrix
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <https://classroom.github.com/a/1E8RN170>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
